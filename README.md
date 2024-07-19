@@ -47,4 +47,45 @@ python 20-20-20.py
 
 5. Press Window+R on Keyboard. Then type "shell:startup" and Enter.This will open Startup folder. 
 6. Move '20-20-20.py-Shortcut' file to this 'Startup' folder.
-7. Now this program will run automatically when you turn on your computer. 
+7. Now this program will run automatically when you turn on your computer.
+
+## ⚙️Configure Work And Rest Duration
+1. Open 'config.ini' file using any text editor. Which must be look like this(By Default)
+👇👇👇👇
+```bash
+[Work]
+Minutes = 20
+
+[Rest]
+Minutes = 0
+Seconds = 20
+```
+2. If u want to change the work duration just change this work minutes value to any minutes. Like for example you want to change 20 minutes work duration to 40 minutes just replace 20 with 40 👇👇👇
+```bash
+[Work]
+Minutes = 40
+
+[Rest]
+Minutes = 0
+Seconds = 20
+```
+3. You can also change Rest duration. To do it just change Rest minutes value 0 to any minutes Also at a same time change Rest Seconds value to 0. For example if i want to change Rest duration to 5 minutes:
+👇👇👇👇
+ ```bash
+[Work]
+Minutes = 20
+
+[Rest]
+Minutes = 5
+Seconds = 0
+```
+4. To change Rest duration to 30 Second. Replace Rest Seconds value with 30 also keep the Minutes value as 0.
+👇👇👇👇
+```bash
+[Work]
+Minutes = 20
+
+[Rest]
+Minutes = 0
+Seconds = 30
+```
