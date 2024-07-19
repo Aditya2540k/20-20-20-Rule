@@ -1,7 +1,7 @@
 
 # 20-20-20 Rule
 
-It’s a handy tool you can use at work or at home to reduce eye strain. Designed to reduce eye strain, the 20-20-20 rule says that every 20 minutes of screen time, you should look away at something at least 20 feet away for 20 seconds. These regular screen breaks give your eyes some rest and helps to prevent eye strain. In this tool you can also configure Work and Rest duration.
+It’s a handy tool you can use at work or at home to reduce eye strain. Designed to reduce eye strain, the 20-20-20 rule says that every 20 minutes of screen time, you should look away at something at least 20 feet away for 20 seconds. These regular screen breaks give your eyes some rest and helps to prevent eye strain. In this tool you can also change Work and Rest duration.
 
 
 ## 🛠️Installation
